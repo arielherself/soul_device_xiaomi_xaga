@@ -276,7 +276,8 @@ PRODUCT_PACKAGES += \
     XagaProFrameworkResOverlay \
     XagaProInFrameworkResOverlay \
     SettingsProviderOverlay \
-
+    ApertureOverlay \
+    
 # Partitions
 PRODUCT_BUILD_SUPER_PARTITION := false
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
