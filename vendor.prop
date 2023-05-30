@@ -197,6 +197,10 @@ TapSlop=1px
 # EGL
 ro.hardware.egl=meow
 
+# Fling Velocity
+ro.min.fling_velocity=160
+ro.max.fling_velocity=20000
+
 # FRP
 ro.frp.pst=/dev/block/by-name/frp
 
