@@ -274,6 +274,7 @@ PRODUCT_PACKAGES += \
     WifiOverlay \
     XagaProFrameworkResOverlay \
     XagaProInFrameworkResOverlay \
+    SettingsProviderOverlay \
 
 # Partitions
 PRODUCT_BUILD_SUPER_PARTITION := false
