@@ -452,7 +452,6 @@ PRODUCT_PACKAGES += \
 # Xiaomi Parts
 PRODUCT_PACKAGES += \
     XiaomiParts \
-    gpu_optimizer.rc
 
 # Inherit the proprietary files
 $(call inherit-product, vendor/xiaomi/xaga/xaga-vendor.mk)
